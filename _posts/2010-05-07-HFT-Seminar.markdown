@@ -33,4 +33,3 @@ title: HFT Seminar
 
 <a href="http://www.cbsnews.com/video/watch/?id=7368460n">http://www.cbsnews.com/video/watch/?id=7368460n</a>
 
-</div>
