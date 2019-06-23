@@ -1,0 +1,8 @@
+---
+layout: post
+title: C# Links
+---
+
+<a href="http://blogs.msdn.com/b/morgan/archive/2008/12/18/periodic-execution-in-net.aspx" title="Periodic Execution in .NET">Periodic Execution in .NET</a>: This is the best implementation note I found of the common pattern to run tasks periodically. 
+
+<a href="http://csharpindepth.com/articles/general/singleton.aspx" title="C# Singleton">Implementing the Singleton Pattern in C#</a>: I actually found singleton not all that useful. The article is a good discussion of many C# features nonetheless.

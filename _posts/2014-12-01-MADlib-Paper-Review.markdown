@@ -1,0 +1,9 @@
+---
+layout: post
+title: MADlib Paper Review
+---
+
+I only read the paper <a title="The MADlib Analytics Library or MAD Skills, the SQL" href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-38.html">The MADlib Analytics Library or MAD Skills, the SQL</a> recently after it has published for almost two years. In short, I like it a lot. Most mainstream relational databases do not support even the most common machine learning tasks like linear regression. In order to run machine learning algorithms on the data inside the databases, one has to first export the data, then use statistics or machine learning tools, e.g. R, to get insight from the data. This is really cumbersome in my opinion. As machine learning becoming more and more common place nowadays. Most major database processing platforms include some kind machine libraries. For example, <a title="Apache Mahout" href="http://mahout.apache.org/">Mahout</a> for Hadoop and <a href="https://spark.apache.org/mllib/" title="MLlib">MLlib</a> for Spark. How do we address the apparent machine learning tool gap in relational databases? This paper introduces an implementation of machine libraries inside RDBMS. It builds on top of existing RDBMS, and requires no altering of any of the database internals like storage engine or extra SQL syntax. Some of my observations if taking a closer look.
+
+* Some functions like linear regression seem very natural and intuitive to use. However, some functions like LDA does not seem to fit in databases as naturally.
+* The implementation relies heavily on the array feature. This is a well supported feature in PostgreSQL but not in some other databases like MySQL and SQL Server. "Array" is actually defined in SQL 2003 standard, and can be very useful in other ways I can image. So I hope the widespread of MADlib or equivalent technologies can drive the adoption of arrays in other major database products; or the other way around.

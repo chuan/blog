@@ -1,0 +1,8 @@
+---
+layout: post
+title: 2013 Work in Retrospect
+---
+
+<p>Depending on one's perspective of Microsoft's attitude towards <a href="http://en.wikipedia.org/wiki/Visual_J%2B%2B#Sun.27s_litigation_against_Microsoft">Java</a> and <a href="http://en.wikipedia.org/wiki/Criticism_of_Microsoft#Copyright_enforcement">open source</a>, it may considered an rather odd case that I mostly worked on Java and open source at Microsoft in the past year. Or more specifically, I worked on the Apache Hadoop project. I fixed some test and product issues, participated in some research/incubation project, as well as certain aspects of the Microsoft's service offering of Hadoop -- <a href="http://www.windowsazure.com/en-us/documentation/services/hdinsight/">Azure HdInsight</a>. I am not sure what I can say or cannot say about my work without violate the company policy. But all my work on Apache Hadoop is public and can be viewed <a href="https://issues.apache.org/jira/browse/HADOOP-10175?filter=-4&jql=project%20in%20(HADOOP%2C%20YARN%2C%20HDFS%2C%20MAPREDUCE)%20AND%20assignee%20in%20(chuanliu)%20ORDER%20BY%20createdDate%20DESC">here</a>.</p>
+
+<p>Beyond the work around Hadoop, I did not make much progress in some other projects that I am interested. I did not get the chance to study the deep learning which seems an interesting new trend in machine learning which also got some traction in industry. This will definitely be on my todo list for the coming weeks.</p>

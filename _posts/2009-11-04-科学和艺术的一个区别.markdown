@@ -1,0 +1,12 @@
+---
+layout: post
+title: 科学和艺术的一个区别
+---
+
+科学结果都是peer reviewed。就是说评定科学成果的人必须也是从事同样工作的。
+
+艺术这个行当却是别人说了算。简单的说一大堆电影评论家，小说评论家，等等都是做这个工作的。如果艺术好坏要艺术家自己来评判会怎么样呢？还是说其实他们自己也搞不懂什么是好什么是坏？
+
+
+
+>Science is what we understand well enough to explain to a computer. Art is everything else we do. -- Knuth
