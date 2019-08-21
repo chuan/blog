@@ -31,5 +31,4 @@ title: HFT Seminar
 
 <strong>Update:</strong> 《60 minutes 》最近有一个关于HTF的报道。他们的标题体是speed traders，以快取胜也是我的感觉，与其说是高频交易，不如说是自动快速交易。
 
-<a href="http://www.cbsnews.com/video/watch/?id=7368460n">http://www.cbsnews.com/video/watch/?id=7368460n</a>
 
