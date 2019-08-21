@@ -7,7 +7,7 @@ title: C# Links
 href="http://blogs.msdn.com/b/morgan/archive/2008/12/18/periodic-execution-in-net.aspx"
 title="Periodic Execution in .NET">
 Periodic Execution in .NET</a>: This is the best implementation note I found of the common pattern to run tasks periodically. 
-TLDR version: use the `ThreadPool.RegisterWaitForSingleObject()** function.
+TLDR version: use the `ThreadPool.RegisterWaitForSingleObject()` function.
 
 <a href="http://csharpindepth.com/articles/general/singleton.aspx" title="C#
 Singleton">Implementing the Singleton Pattern in C#</a>: I actually found
