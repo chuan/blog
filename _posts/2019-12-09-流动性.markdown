@@ -1,16 +1,12 @@
 ---
 layout: post
-title: 四种流动性
+title: 流动性
 ---
 Peter Thiel在一个<a href="https://www.youtube.com/watch?v=E-IaSS0bbGU">演讲</a>里提到全球化的四种流动性：
 - 货物流通（goods）
 - 人口流通（people)
 - 资本流通（capital）
 - 思想流通（ideas）
-
-他进一步提到在中美对抗的框架下，中国在货物和人口流通占优
-比如，全球最大的集装箱码头<a href="https://en.wikipedia.org/wiki/List_of_busiest_container_ports">排名</a>前十中国就占了七个。
-人口流通他举了深圳从1980年6万人增长到1200万人的例子。
 
 这里有一个隐含的假设：
 更低的流动成本会给社会带来更大的活力，
@@ -23,10 +19,14 @@ Peter Thiel在一个<a href="https://www.youtube.com/watch?v=E-IaSS0bbGU">演讲
 至今已有十年。
 我从自己微观的视角可以看到人口流通的积极作用。
 
-货物流通和资本流通对经济的好处也是经济教科书里最根本的法则。
-
+货物流通和资本流通对经济的好处也是显而易见的。
 最近三、四十年科技尤其是互联网发展促进了思想的流通。
-我觉得我们可以看到眼前一些正面和负面影响，
-比如社交网络或者即使通讯软件，
-但更长远的影响还远远没有显现，
-而且将会是一个长期的过程。
+
+Peter Thiel进一步提到在中美对抗的框架下，中国在货物和人口流通占优。
+比如，全球最大的集装箱码头<a href="https://en.wikipedia.org/wiki/List_of_busiest_container_ports">排名</a>前十中国就占了七个。
+人口流通他举了深圳从1980年6万人增长到1200万人的例子。
+
+这里又有另一个隐含的假设：
+在当下全球脱钩（decoupling）的背景下，
+每一个国家应该努力提高自己区域的流动性，
+这是国家竞争力的根本。
