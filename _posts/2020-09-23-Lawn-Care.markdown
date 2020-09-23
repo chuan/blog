@@ -1,0 +1,23 @@
+---
+layout: post
+title: 草坪打理笔记
+---
+
+坐标西雅图市郊。一些日常打理草坪笔记。
+
+秋季播种次序：
+1.  (Optional) Apply weed killer
+2. Dethatching
+3. Core aeration
+4. Overseeding
+5. Apply starter fertilizer
+6. Watering
+
+
+种子选择：
+参考了[这篇文章](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9100.pdf),
+目前觉得JB Instant Lawn的JB Sun & Shade是比较适合西雅图土地和气候的选择。
+
+除草剂：最好在春季或夏初使用。
+
+
